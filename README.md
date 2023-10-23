@@ -1,25 +1,68 @@
-# Hi there 👋
+# INTROREALITY
+Hi, I am a music producer, indie game developer, graphic designer, and product designer.
 
-I'm EXSPIRAVIT_, my real name is Haochen Zeng.
+# NAMEREALITY1
 
-I'm a game developer, music producer, product designer, +more from Shanghai, China.
+Hao2chen3 Zeng1
 
-## 😄 Pronouns ...
+1 曾
 
-He/Him
+To concentrate.
 
-## 🔭 I’m currently working on ...
+2 昊
 
-A game called MEMORY ANCHOR.
+The sun and sky, vast and limitless.
 
-## 💬 Ask me about ...
+3 宸
 
-MEMORY ANCHOR if you are interested.
+The eaves of a house; a metaphor for shelter; the residence of a king.
 
-## 🌱 I’m currently learning ...
+# NAMEREALITY2
+Tin
 
-Product design, making my portfolio for university application.
+# NAMENET
+EXSPIRAVIT_
 
-## 📫 How to reach me ...
+# LOCATIONREALITY
+Shanghai, China
 
-My discord (EXSPIRAVIT_#5705)
+# LOCATIONNET
+Free Area
+
+# HARDWAREREALITY
+
+D:
+
+Fortune teller's metal tarot card
+
+# SOFTWAREREALITY
+
+Rhino
+
+Blender
+
+Keyshot
+
+Processing
+
+DaVinci Resolve
+
+Figma
+
+Krita
+
+Adobe Photoshop
+
+Aseprite
+
+Git
+
+Godot
+
+FL Studio
+
+Pure Data
+
+VCV Rack
+
+Rekordbox
