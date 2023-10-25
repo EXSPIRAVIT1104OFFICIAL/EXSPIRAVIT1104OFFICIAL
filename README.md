@@ -34,35 +34,3 @@ Free Area
 D:
 
 Fortune teller's metal tarot card
-
-# SOFTWAREREALITY
-
-Rhino
-
-Blender
-
-Keyshot
-
-Processing
-
-DaVinci Resolve
-
-Figma
-
-Krita
-
-Adobe Photoshop
-
-Aseprite
-
-Git
-
-Godot
-
-FL Studio
-
-Pure Data
-
-VCV Rack
-
-Rekordbox
